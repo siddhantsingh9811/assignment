@@ -44,7 +44,7 @@ This will create the necessary tables in the PostgreSQL database.
 Start the Express server:
 
 ```bash
-npm start
+node index js
 ```
 
 
